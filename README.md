@@ -16,6 +16,7 @@
    py -3.12 -m pip install xgboost
    py -3.12 -m pip install nbformat
    py -3.12 -m pip install jupyter
+ 
    ```
 
 Ці пакети забезпечують роботу нашого пайплайну та ноутбуків.
