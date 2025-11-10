@@ -8,7 +8,6 @@
    ```
 2. Оновіть менеджер пакетів `pip` і встановіть необхідні бібліотеки (потрібно виконати обидві команди в терміналі/PowerShell):
    ```bash
-   
    python -m pip install --upgrade pip
    py -3.12 -m pip install pandas
    py -3.12 -m pip install numpy
